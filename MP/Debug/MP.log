@@ -1,0 +1,3 @@
+﻿  Memory.cpp
+C:\Users\dashe\source\repos\MP\MP\Memory.cpp(96,7): warning C4101: flag: неиспользованная локальная переменная
+  MP.vcxproj -> C:\Users\dashe\source\repos\MP\Debug\MP.exe
